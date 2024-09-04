@@ -1,0 +1,96 @@
+Alabama -- Done 1
+
+Alaska -- Done 2
+
+Arizona -- Done 3
+
+Arkansas --   we do not issue copies of WARN notices (3)
+
+California -- 2017 + (4)
+
+Colorado -- 2015 + (5) --> potential duplicates in records
+
+Connecticut -- done (6)
+
+Delaware -- done (7)
+
+Florida -- exists (8)
+Georgia -- done (9) 2015+ more can be added
+Hawaii -- offers WARN but cannot be scraped easily (9, 1)
+Idaho -- pdf (10, 1) done --- but clear columns have titles in other rows
+Illinois -- offers WARN but difficult to scrape pdf per month (10, 2)
+Indiana -- https://www.in.gov/dwd/2567.htm --> (11, 2)
+Iowa -- pdf (12,2)
+Kansas -- https://www.kansasworks.com/ada/mn_warn_dsp.cfm?securitysys=on&FormID=0 --> (13, 2)
+some duplicates -- done
+
+Kentucky -- easy download from --> https://kcc.ky.gov/Pages/News.aspx --> (14, 2)
+done 2013+
+
+Louisiana -- http://www.laworks.net/Downloads/Downloads_Alpha.asp#W --> (15, 2)
+
+
+Maine -- https://joblink.maine.gov/ada/mn_warn_dsp.cfm?securitysys=on&FormID=0 --> (16, 2)
+Maryland -- https://www.dllr.state.md.us/employment/warn.shtml   2010+  --> (17, 2)
+Massachusetts -- (17, 3) end of 2019 + done
+Michigan -- https://milmi.org/warn --> (18, 3)
+Minnesota -- https://mn.gov/deed/programs-services/dislocated-worker/reports/ (19, 3)
+Mississippi -- https://mdes.ms.gov/information-center/warn-information/ -->(20, 3)
+Missouri -- https://jobs.mo.gov/warn2019 --> 2019+ --> (21, 3)
+Montana --done -- too low (22, 3)
+
+Nebraska -- 2 websites - some states have separate WARN and layoffs webpages
+done -- two separate datasets
+
+https://dol.nebraska.gov/EmploymentAndTraining/Businesses/LayoffServices/LayoffsAndDownsizingWARN/LayoffAndClosureReport
+
+(23, 3)
+
+Nevada --> (23, 4)
+New Hampshire -- none (23, 4)
+New Jersey -- 2015+ --> (24, 4)
+New Mexico -- https://www.dws.state.nm.us/Rapid-Response under WARN notices --> (25, 4)
+New York -- request pending --> (26, 4) 
+North Carolina --> 
+
+https://www.nccommerce.com/data-tools-reports/labor-market-data-tools/workforce-warn-reports -->(27, 4)
+
+North Dakota --> (27, 4)
+Ohio -- https://jfs.ohio.gov/warn/index.stm   https://jfs.ohio.gov/warn/current.stm  (28, 4) 2020+
+done
+
+Oklahoma -- done --> (29, 4)
+Oregon -- done (30, 4)
+Pennsylvania -- difficult to scrape (30, 5)
+
+https://www.dli.pa.gov/Individuals/Workforce-Development/warn/notices/Pages/default.aspx
+
+
+Rhode Island -- http://www.dlt.ri.gov/bwc/WARN.htm --> (31, 5) done 2010+
+
+South Carolina -- https://scworks.org/employer/employer-programs/at-risk-of-closing/layoff-notification-reports
+(32, 5) can't do UPDATE (37, 9)
+
+South Dakota -- easy -- https://dlr.sd.gov/workforce_services/businesses/warn_notices.aspx --> (33, 5) done
+
+Tennessee -- https://www.tn.gov/workforce/general-resources/major-publications0/major-publications-redirect/reports.html
+(34, 5)
+
+
+Texas -- done (35, 5)
+
+Utah -- https://jobs.utah.gov/employer/business/warnnotices.html --> (36, 5) done
+
+Vermont -- no WARN but unemployment data available
+
+Virginia -- done (37, 5)
+
+Washington -- https://fortress.wa.gov/esd/file/warn/Public/SearchWARN.aspx --> (37, 6) done
+but stopped at 34 aka dec of 2012 -- should be fine
+
+Washington DC -- done 2015+ --> (38, 6)
+West Virginia -- UPDATE (38, 8)
+Wisconsin -- https://dwd.wisconsin.gov/dislocatedworker/warn/ --> (39, 7) -- done (2016+)
+Wyoming --> none 
+
+final (39, 7)
